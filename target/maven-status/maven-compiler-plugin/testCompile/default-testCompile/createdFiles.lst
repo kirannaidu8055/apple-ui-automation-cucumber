@@ -1,0 +1,6 @@
+com/ibm/apple/testrunner/TestRunner.class
+com/ibm/apple/operations/xpaths/PolicyXpaths.class
+com/ibm/apple/steps/CommonSteps.class
+com/ibm/apple/uiautomation/AppTest.class
+com/ibm/apple/steps/MaaS360Policies_Passcode.class
+com/ibm/apple/operations/PolicyOperations.class

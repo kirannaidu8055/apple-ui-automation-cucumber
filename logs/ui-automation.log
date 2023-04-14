@@ -1,0 +1,12 @@
+2023-03-17 22:57:33 INFO  MaaS360Policies_Passcode:35 - Policy Name : Passcode_Policy_91260108518001
+2023-03-17 22:57:42 INFO  MaaS360Policies_Passcode:41 - Policy Tab Is Displayed
+2023-03-17 22:57:42 INFO  MaaS360Policies_Passcode:47 - Add Policy Button Is Displayed
+2023-03-17 22:57:43 INFO  MaaS360Policies_Passcode:53 - Policy Name Is Given
+2023-03-17 22:57:44 INFO  MaaS360Policies_Passcode:59 - Policy Type Is Displayed in Dropped Down
+2023-03-17 22:57:45 INFO  MaaS360Policies_Passcode:65 - Start From Is displayed in Dropped Down
+2023-03-17 22:57:45 INFO  MaaS360Policies_Passcode:71 - Continue Button Is Clicked
+2023-03-17 22:57:53 INFO  MaaS360Policies_Passcode:83 - Device Settings Is Visible
+2023-03-17 22:57:54 INFO  MaaS360Policies_Passcode:89 - Passcode Settings Configuration Is Completed
+2023-03-17 22:57:56 INFO  MaaS360Policies_Passcode:96 - Next Button Is Clicked
+2023-03-17 22:57:58 INFO  MaaS360Policies_Passcode:102 - Publish Button Is Clicked
+2023-03-17 22:58:06 INFO  MaaS360Policies_Passcode:109 - Published Status Is Visible
